@@ -32,7 +32,7 @@ const Card = () => {
       <div className="big-card flex flex-col lg:flex-row mx-4 md:mx-14 text-white mt-16 mb-10 space-y-8 lg:space-y-0 lg:space-x-8 sc">
         <div className="card-items flex flex-col w-full lg:w-1/2 space-y-2 mx-5 p-14 rounded-xl bg-gradient-to-bl from-zinc-950 via-zinc-900 to bg-violet-950 items-center hover:scale-105 transform transition duration-500">
           <div className="image flex items-center justify-center ">
-            <img className='w-48 ' src="vite.svg" alt="" />
+            <img className='w-48 ' src="./icons/vite.svg" alt="" />
           </div>
           <h1 className='text-2xl font-semibold'>Securely generate, share, and autofill strong passwords and passkeys</h1>
           <p className='text-lg'>Bitwarden empowers you to create and manage unique passwords and passkeys, so you can strengthen privacy and boost productivity online from any device or location.</p>
